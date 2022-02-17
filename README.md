@@ -7,3 +7,5 @@ Current Tasks
     - engage pneumatic
     - 180 degree
     - drive backwards
+  - Ultra sonic sensor
+  - Pneumatics
