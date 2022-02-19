@@ -12,4 +12,11 @@ package frc.robot;
  * <p>It is advised to statically import this class (or one of its inner classes) wherever the
  * constants are needed, to reduce verbosity.
  */
-public final class Constants {}
+public final class Constants 
+{
+    double LEFT_FRONT_M = 1;
+    double LEFT_BACK_M = 2;
+    double RIGHT_FRONT_M = 3;
+    double RIGHT_BACK_M = 4; 
+
+}
